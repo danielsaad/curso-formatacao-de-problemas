@@ -4,7 +4,7 @@ Material do Curso de Formatação de problemas, desenvolvido por:
 - Prof. Bruno Ribas (UnB/FGA)
 - Prof. Daniel Saad (IFB/Taguatinga)
 - Prof. Edson Alves (UnB/FGA)
-- Prof. John Gardenghi
+- Prof. John Gardenghi (UnB/FGA)
 
 ## Polygon Codeforces
 
